@@ -31,7 +31,7 @@ h1 {
 }
 #timeline {
   position: relative;
-  top: 28%;
+  top: 30%;
   border: 1vw solid black;
   border-radius: 10vw;
 }
@@ -51,7 +51,7 @@ h1 {
 }
 .date4 {
   position: relative;
-  top:13%;
+  top:23%;
   float: right;
   text-align: center;
   background-color: #ebc5f0;
