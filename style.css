@@ -1,11 +1,11 @@
 /* Header/Logo Title */
 body{
-  background-color: #db8888;
+  background-color: #ffd3d1;
 }
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url(https://github.com/aless-mendoza/cosmetology/blob/main/images/cosmetologyBackground.jpeg?raw=true);
+  background-image: url(images/Cosmetology.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
