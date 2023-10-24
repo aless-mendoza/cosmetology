@@ -49,5 +49,8 @@ h1 {
   margin: 10px;
 }
 .date1 hover{
-  box-shadow: 0px 0px 20px #black;
+  text-shadow: 0px 0px 20px #913aab;
+}
+.calender{
+  text-size:5vw;
 }
