@@ -16,14 +16,12 @@ h1 {
   text-align: center;
   color: white;
   text-shadow: 0px 0px 20px #913aab;
-  font-size: 7vw;
 }
 #subTitle {
   font-family: "Apple Chancery", cursive;
   text-align: center;
   color: white;
   text-shadow: 0px 0px 20px #913aab;
-  font-size:5vw;
 }
 #banner {
   height: 100%; 
@@ -52,5 +50,6 @@ h1 {
   text-shadow: 0px 0px 20px #913aab;
 }
 .calender{
-  text-size:5vw;
+  text-size:50px;
+  font-family: "Apple Chancery", cursive;
 }
