@@ -34,6 +34,6 @@ h3 {
 #timeline {
   position: relative;
   top: 40vh;
-  border: 1vw solid white;
+  border: 1vw solid black;
   border-radius: 10vw;
 }
