@@ -31,13 +31,13 @@ h1 {
 }
 #timeline {
   position: relative;
-  top: 35vh;
+  top: 25%;
   border: 1vw solid black;
   border-radius: 10vw;
 }
 .date1 {
   position: relative;
-  top:20vh;
+  top:20%;
   text-align: center;
   background-color: #ebc5f0;
   width: 300px;
