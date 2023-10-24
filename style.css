@@ -49,7 +49,7 @@ h1 {
 .date1:hover{
   box-shadow: 0px 0px 20px #913aab;
 }
-.date2 {
+.date4 {
   position: relative;
   top:23%;
   float: right;
@@ -61,7 +61,7 @@ h1 {
   padding: 10px;
   margin: 10px;
 }
-.date2:hover{
+.date4:hover{
   box-shadow: 0px 0px 20px #913aab;
 }
 .calender{
