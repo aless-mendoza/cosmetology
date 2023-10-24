@@ -1,4 +1,7 @@
 /* Header/Logo Title */
+body{
+  background-color: #fccdaa;
+}
 .header {
   padding: 60px;
   text-align: center;
