@@ -49,6 +49,21 @@ h1 {
 .date1:hover{
   text-shadow: 0px 0px 20px #913aab;
 }
+.date2 {
+  position: relative;
+  top:23%;
+  float: right;
+  text-align: center;
+  background-color: #ebc5f0;
+  width: 300px;
+  height: 200px;
+  border-radius:10vw;
+  padding: 10px;
+  margin: 10px;
+}
+.date2:hover{
+  text-shadow: 0px 0px 20px #913aab;
+}
 .calender{
   font-size:30px;
   font-family: "Apple Chancery", cursive;
