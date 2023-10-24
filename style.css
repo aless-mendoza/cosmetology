@@ -4,6 +4,7 @@
   text-align: center;
   background-image: url(https://github.com/aless-mendoza/cosmetology/blob/main/images/cosmetologyBackground.jpeg?raw=true);
   background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-size: 30px;
 }
