@@ -1,11 +1,11 @@
 /* Header/Logo Title */
 body{
-  background-color: #ffd3d1;
+  background-color: #c9c9c9;
 }
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url(images/cosmetology.jpeg);
+  background-image: url(images/cosBanner.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
