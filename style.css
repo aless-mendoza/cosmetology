@@ -23,9 +23,9 @@ h1 {
   color: white;
   text-shadow: 0px 0px 20px #913aab;
 }
-#banner {
-  height: 100%; 
-  background-position: center;
+#timeline{
+  background-image: url(images/timelineHolder.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
+
