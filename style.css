@@ -6,6 +6,7 @@ body{
   background-color: #c9c9c9;
 }
 a{
+  font-size:20px;
   color:white;
   text-decoration: none;
 }
@@ -51,5 +52,5 @@ td {
   padding:10px;
 }
 td:hover {
-  padding:13px;
+  padding:15px;
   
