@@ -5,6 +5,10 @@ html {
 body{
   background-color: #c9c9c9;
 }
+a{
+  color:white;
+  text-decoration: none;
+}
 .header {
   padding: 60px;
   text-align: center;
@@ -31,10 +35,10 @@ h1 {
   width: 100%;
 }
 table, th, td {
-  border: 10px solid transparent;
+  border: 10px solid #c9c9c9;
 }
 td, th {
-  background-color:#c3c3;
+  background-color: #5c246b;
 }
 table {
   margin-left: auto;
