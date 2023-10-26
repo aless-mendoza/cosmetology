@@ -24,7 +24,9 @@ h1 {
   text-shadow: 0px 0px 20px #913aab;
 }
 #timeline{
-  height:100%;
-  width:100%;
+  text-align: center;
+  background-image: url(images/cosBanner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
