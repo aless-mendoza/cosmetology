@@ -1,1 +1,65 @@
-
+/* Header/Logo Title */
+html {
+  scroll-behavior: smooth;
+}
+body{
+  background-color: #c9c9c9;
+}
+a{
+  font-size:40px;
+  color:white;
+  text-decoration: none;
+  display:block;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background-image: url(images/cosBanner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size:100%;
+  color: white;
+  font-size: 50px;
+}
+h1 {
+  font-family: "Apple Chancery", cursive;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 0px 20px #913aab;
+}
+h3 {
+  font-family:"American Typewriter", serif;
+  margin-left:10%;
+  font-size:50px;
+  font-weight: bold;
+}
+#subTitle {
+  font-family: "Apple Chancery", cursive;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 0px 20px #913aab;
+}
+#timeline{
+  height:auto;
+  width: 100%;
+}
+table, th, td {
+  border: 10px solid #c9c9c9;
+}
+td, th {
+  background-color: #5c246b;
+}
+table {
+  margin-left: auto;
+  margin-right:auto;
+  border-collapse: collapse;
+  width: 50%;
+}
+td {
+  text-align: center;
+  padding:10px;
+}
+td:hover {
+  background-color: #713382;
+  padding:15px;
+}
