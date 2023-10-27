@@ -43,10 +43,9 @@ h3 {
   color: white;
   text-shadow: 0px 0px 20px #913aab;
 }
-@media (max-width: 12cm) {
-  div.smallTimeline {
-    display: none;
-  }
+#timeline{
+  height:auto;
+  width: 100%;
 }
 table, th, td {
   border: 10px solid #c9c9c9;
