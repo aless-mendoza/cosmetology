@@ -17,7 +17,7 @@ a{
   background-image: url(images/cosBanner.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-size:100%;
+  background-height:100%;
   color: white;
   font-size: 50px;
 }
