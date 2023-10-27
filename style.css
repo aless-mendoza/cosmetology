@@ -44,7 +44,7 @@ h3 {
   text-shadow: 0px 0px 20px #913aab;
 }
 @media only (min-width: 12cm) {
-  #smallImage {
+  #smallTimeline {
     display: none;
   }
 }
