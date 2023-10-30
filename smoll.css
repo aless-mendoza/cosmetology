@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 body{
-  background-color: #c9c9c9;
+  background-color: black;
 }
 footer {
     margin:auto;
@@ -37,6 +37,7 @@ h3 {
   margin-left:10%;
   font-size:50px;
   font-weight: bold;
+  color: white;
 }
 #subTitle {
   font-family: "Apple Chancery", cursive;
