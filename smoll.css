@@ -50,7 +50,7 @@ h3 {
   width: 100%;
 }
 table, th, td {
-  border: 10px solid #c9c9c9;
+  border: 10px solid black;
 }
 td, th {
   background-color: #5c246b;
