@@ -22,7 +22,7 @@ a{
   text-align: center;
   background-image: url(images/cosBanner.png);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   color: white;
   font-size: 50px;
 }
