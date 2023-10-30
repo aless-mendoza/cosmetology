@@ -82,6 +82,8 @@ td:hover {
 }
 .cuts{
   background-color: #8f2576;
-  border-radius:10px;
-  padding:10px;
+  border-radius:20px;
+  padding:20px;
+  width:100px;
+  height:auto;
 }
