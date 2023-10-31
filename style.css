@@ -82,9 +82,10 @@ td:hover {
 }
 .content{
   background-color: #8f2576;
-  border-radius:20px;
+  border-radius:10%;
   padding:20px;
-  width:30%;
+  width:40%;
   height:auto;
   text-align:center;
+  border:10%;
 }
