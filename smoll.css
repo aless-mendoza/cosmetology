@@ -81,3 +81,12 @@ td:hover {
   background-color: #713382;
   padding:15px;
 }
+.content{
+  background-color: #4d3163;
+  border-radius:20px;
+  padding:10px;
+  width:30%;
+  height:auto;
+  text-align:center;
+  border-width:10px;
+}
