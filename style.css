@@ -60,23 +60,23 @@ li{
   height:auto;
   width: 100%;
 }
-table, th, td {
+nav * table, th, td {
   border: 10px solid black;
 }
-td, th {
+nav * td, th {
   background-color: #5c246b;
 }
-table {
+nav * table {
   margin-left: auto;
   margin-right:auto;
   border-collapse: collapse;
   width: 50%;
 }
-td {
+nav * td {
   text-align: center;
   padding:10px;
 }
-td:hover {
+nav * td:hover {
   background-color: #713382;
   padding:15px;
 }
