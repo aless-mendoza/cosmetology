@@ -91,10 +91,10 @@ nav * td:hover {
   border: 2px solid #6e6e6e;
 }
 .left{
-  position:absolute;
+  position:relative;
   left:10%;
 }
 .right{
-  position:absolute;
+  position:relative;
   right: 10%;
 }
