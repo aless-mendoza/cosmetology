@@ -112,4 +112,5 @@ article * td {
   border-image: url(borderImage.png) 30 round;
   text-align:center;
   width:30%;
+  padding:10px;
 }
