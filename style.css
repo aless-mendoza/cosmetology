@@ -90,11 +90,8 @@ nav * td:hover {
   margin:10px;
   border: 2px solid #6e6e6e;
 }
-.left{
-  position:relative;
-  left:10%;
-}
-.right{
-  position:relative;
-  right: 10%;
+table {
+  margin-left: auto;
+  margin-right:auto;
+  border: 2px solid white;
 }
