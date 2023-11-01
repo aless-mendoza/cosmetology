@@ -105,3 +105,6 @@ article * td {
   text-align:center;
   border: 2px solid #6e6e6e;
 }
+article * table, th, td {
+  border: 30px solid black;
+}
