@@ -105,3 +105,9 @@ article * td {
   text-align:center;
   border: 20px solid black;
 }
+#prices{
+  background-color:#f7baed;
+  color:black;
+  border-radius:50%;
+  border-image: url(borderImage.png) 30 round;
+}
