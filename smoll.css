@@ -60,33 +60,36 @@ li{
 #timeline{
   height:auto;
   width: 100%;
-}
-table, th, td {
+nav * table, td {
   border: 10px solid black;
 }
-td, th {
+nav * td, th {
   background-color: #5c246b;
 }
-table {
+#navTable {
   margin-left: auto;
   margin-right:auto;
   border-collapse: collapse;
   width: 50%;
 }
-td {
+nav * td {
   text-align: center;
   padding:10px;
 }
-td:hover {
+nav * td:hover {
   background-color: #713382;
   padding:15px;
 }
-.content{
+#optionTable {
+  margin-left: auto;
+  margin-right:auto;
+}
+article * td {
+  width:20vw;
   background-color: #4d3163;
-  border-radius:20px;
+  border-radius:20%;
   padding:10px;
-  width:30%;
   height:auto;
   text-align:center;
-  border-width:10px;
+  border: 20px solid black;
 }
