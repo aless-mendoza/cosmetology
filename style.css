@@ -97,3 +97,6 @@ table {
 table, th, td {
   border: 10px solid white;
 }
+td {
+  width:20vw;
+}
