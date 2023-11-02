@@ -86,7 +86,7 @@ nav * td:hover {
   margin-right:auto;
 }
 article * td {
-  width:20vw;
+  width:50%;
   background-color: #4d3163;
   border-radius:20%;
   padding:10px;
