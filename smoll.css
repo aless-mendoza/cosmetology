@@ -91,5 +91,16 @@ article * td {
   padding:10px;
   height:auto;
   text-align:center;
-  border: 20px solid black;
+  border: 10px solid black;
+}
+#prices{
+  margin-left: auto;
+  margin-right:auto;
+  background-color:#f7baed;
+  color:black;
+  border-radius:50%;
+  border-image: url(borderImage.png) 30 round;
+  text-align:center;
+  width:30%;
+  padding:10px;
 }
