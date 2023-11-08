@@ -72,6 +72,7 @@ nav * td, th {
 nav * td {
   text-align: center;
   padding:10px;
+  border-radius:10%;
 }
 nav * td:hover {
   background-color: #e053aa;
@@ -83,7 +84,7 @@ nav * td:hover {
 }
 article * td {
   width:50%;
-  background-color: #bd42ae;
+  background-color: #eb8aff;
   border-radius:20%;
   padding:10px;
   height:auto;
