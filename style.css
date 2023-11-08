@@ -56,10 +56,6 @@ li{
   color: white;
   text-shadow: 3px 3px 20px #4e0082;
 }
-#timeline{
-  height:auto;
-  width: 100%;
-}
 nav * table, td {
   border: 10px solid black;
 }
