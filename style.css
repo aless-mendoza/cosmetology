@@ -60,7 +60,7 @@ nav * table, td {
   border: 10px solid black;
 }
 nav * td, th {
-  background-color: #5c246b;
+  background-color: #D43195;
 }
 #navTable {
   margin-left: auto;
@@ -73,7 +73,7 @@ nav * td {
   padding:10px;
 }
 nav * td:hover {
-  background-color: #713382;
+  background-color: #e043a4;
   padding:15px;
 }
 /*
