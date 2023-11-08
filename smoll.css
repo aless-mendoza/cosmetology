@@ -57,15 +57,11 @@ li{
   color: white;
   text-shadow: 3px 3px 20px #4e0082;
 }
-#timeline{
-  height:auto;
-  width: 100%;
-}
 nav * table, td {
   border: 10px solid black;
 }
 nav * td, th {
-  background-color: #5c246b;
+  background-color: #D43195;
 }
 #navTable {
   margin-left: auto;
@@ -78,7 +74,7 @@ nav * td {
   padding:10px;
 }
 nav * td:hover {
-  background-color: #713382;
+  background-color: #e053aa;
   padding:15px;
 }
 #optionTable {
@@ -87,7 +83,7 @@ nav * td:hover {
 }
 article * td {
   width:50%;
-  background-color: #4d3163;
+  background-color: #bd42ae;
   border-radius:20%;
   padding:10px;
   height:auto;
