@@ -89,7 +89,7 @@ article * td {
   height:auto;
   color:black;
   text-align:center;
-  border: 20px solid black;
+  border: 20px;
 }
 #prices{
   margin-left: auto;
@@ -117,4 +117,5 @@ article * td {
   background-image: url(images/roomImg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: top; 
 }
