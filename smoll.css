@@ -44,11 +44,7 @@ h4{
   color:white;
 }
 p{
-  font-size:30px;
-  color:white;
-}
-li{
-  font-size:30px;
+  font-size:35px;
   color:white;
 }
 #subTitle {
@@ -103,6 +99,12 @@ article * td {
   padding:10px;
 }
 .dContainer{
+  width:40%;
+  margin: 10px,10px;
+  text-align:center;
+}
+.pContainer{
+  display:inline-block;
   width:40%;
   margin: 10px,10px;
   text-align:center;
