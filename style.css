@@ -83,13 +83,13 @@ nav * td:hover {
 }
 article * td {
   width:20vw;
-  background-color: #eb8aff;
+  background-color: rgba(235, 138, 255, .6);
   border-radius:20%;
   padding:10px;
   height:auto;
   color:black;
   text-align:center;
-  border: 20px;
+  border: 20px transparent;
 }
 #prices{
   margin-left: auto;
