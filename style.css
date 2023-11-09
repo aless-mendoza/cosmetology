@@ -113,8 +113,3 @@ article * td {
   margin: 10px,10px;
   text-align:center;
 }
-#timelineImg{
-  background-image: url(images/timelineHolder.png);
-  width:100%;
-  height:auto;
-}
