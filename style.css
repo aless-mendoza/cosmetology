@@ -107,3 +107,9 @@ article * td {
   margin: 10px,10px;
   text-align:center;
 }
+.pContainer{
+  display:inline-block;
+  width:40%;
+  margin: 10px,10px;
+  text-align:center;
+}
