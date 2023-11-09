@@ -108,4 +108,8 @@ article * td {
   margin: 10px,10px;
   text-align:center;
 }
-
+.optContainer{
+  background-image: url(images/roomImg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
