@@ -102,3 +102,8 @@ article * td {
   width:30%;
   padding:10px;
 }
+.dContainer{
+  width:40%;
+  margin: 10px,10px;
+  text-align:center;
+}
