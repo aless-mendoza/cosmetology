@@ -101,9 +101,14 @@ article * td {
   text-align:center;
 }
 .pContainer{
+  display:inline-block;
   width:40%;
   margin: 10px,10px;
   text-align:center;
+}
+#msP{
+  width:40%;
+  height:auto;
 }
 .optContainer{
   background-image: url(images/roomImg.jpeg);
