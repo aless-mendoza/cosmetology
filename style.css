@@ -110,6 +110,10 @@ article * td {
   margin: 10px,10px;
   text-align:center;
 }
+.msP{
+  width:40%;
+  height:auto;
+}
 .optContainer{
   background-image: url(images/roomImg.jpeg);
   background-repeat: no-repeat;
