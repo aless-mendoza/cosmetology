@@ -6,9 +6,10 @@ body{
   background-color: black;
 }
 footer {
-  text-align: center;
-  font-size:10px;
-  color: white;
+    margin:auto;
+    text-align: center;
+    position: fixed;
+    bottom:0%;
 }
 a{
   font-size:20px;
@@ -83,11 +84,10 @@ nav * td:hover {
 }
 article * td {
   width:20vw;
-  background-color: rgba(235, 138, 255, .9);
+  background-color: rgba(129, 76, 140, .9);
   border-radius:20%;
   padding:10px;
   height:auto;
-  color:black;
   text-align:center;
   border: 20px transparent;
 }
@@ -103,6 +103,7 @@ article * td {
   padding:10px;
 }
 .dContainer{
+  display:inline-block;
   width:40%;
   margin: 10px,10px;
   text-align:center;
