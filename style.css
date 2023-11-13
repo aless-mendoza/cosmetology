@@ -83,7 +83,7 @@ nav * td:hover {
 }
 article * td {
   width:20vw;
-  background-color: rgba(235, 138, 255, .6);
+  background-color: rgba(235, 138, 255, .8);
   border-radius:20%;
   padding:10px;
   height:auto;
