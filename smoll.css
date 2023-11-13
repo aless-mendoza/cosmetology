@@ -80,12 +80,12 @@ nav * td:hover {
 }
 article * td {
   width:50%;
-  background-color: #eb8aff;
+  background-color: rgba(129, 76, 140, .9);
   border-radius:20%;
   padding:10px;
   height:auto;
   text-align:center;
-  border: 10px solid black;
+  border: 10px solid transparent;
 }
 #prices{
   margin-left: auto;
