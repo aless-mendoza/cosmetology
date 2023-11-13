@@ -6,10 +6,7 @@ body{
   background-color: black;
 }
 footer {
-    margin:auto;
     text-align: center;
-    position: fixed;
-    bottom:0%;
 }
 a{
   font-size:40px;
@@ -98,6 +95,7 @@ article * td {
   padding:10px;
 }
 .dContainer{
+  display:inline-block;
   width:40%;
   margin: 10px,10px;
   text-align:center;
