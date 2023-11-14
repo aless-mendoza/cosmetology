@@ -103,7 +103,6 @@ article * td {
   background-image: url(images/deskImg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top; 
 }
 .dContainer{
   display:inline-block;
