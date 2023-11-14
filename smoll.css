@@ -94,6 +94,12 @@ article * td {
   width:30%;
   padding:15px;
 }
+.priceContainer{
+  background-image: url(images/deskImg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top; 
+}
 .dContainer{
   display:inline-block;
   width:40%;
