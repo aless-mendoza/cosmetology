@@ -112,7 +112,11 @@ article * td {
   text-align:center;
 }
 #msP{
-  width:40%;
+  width:50%;
+  height:auto;
+}
+#msD{
+  width:50%;
   height:auto;
 }
 .optContainer{
@@ -120,4 +124,7 @@ article * td {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top; 
+}
+.teach{
+  margin: auto;
 }
