@@ -94,7 +94,6 @@ article * td {
   background-color:#f7baed;
   color:black;
   border-radius:100%;
-  border-image: url(borderImage.png) 30 round;
   text-align:center;
   width:30%;
   padding:10px;
