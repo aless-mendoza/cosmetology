@@ -143,6 +143,7 @@
     }
     window.addEventListener("load", () => {
       createSnow(30)
+      setTimeout(removeSnow, 10000)
     });
     const removeSnow = () => {
       snowContainer.style.opacity = "0";
