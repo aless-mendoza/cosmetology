@@ -55,6 +55,7 @@ li{
   text-shadow: 3px 3px 20px #4e0082;
 }
 nav * table, td {
+  z-index:999;
   border: 10px solid black;
 }
 nav * td, th {
@@ -67,6 +68,7 @@ nav * td, th {
   width: 50%;
 }
 nav * td {
+  z-index:999;
   text-align: center;
   padding:10px;
   border-radius:15%;
