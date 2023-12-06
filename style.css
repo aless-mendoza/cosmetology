@@ -98,7 +98,6 @@ article * td {
   text-align:center;
   width:30%;
   padding:10px;
-  display:inline-block;
 }
 .dContainer{
   display:inline-block;
@@ -128,5 +127,8 @@ article * td {
   margin: auto;
 }
 #venmo{
+  display:inline-block;
+}
+.priceContainer{
   display:inline-block;
 }
