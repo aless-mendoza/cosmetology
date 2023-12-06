@@ -150,12 +150,12 @@ article * td {
   0% {
     opacity: 0;
   }
-  50% {
+  75% {
     opacity: 1;
   }
   100% {
     top: 100vh;
-    opacity: 1;
+    opacity: 0;
   }
 }
 @keyframes sway {
