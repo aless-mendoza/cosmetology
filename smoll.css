@@ -155,3 +155,10 @@ article * td {
     margin-left: 0;
   }
 }
+#snowman{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:5%;
+  height:auto;
+}
