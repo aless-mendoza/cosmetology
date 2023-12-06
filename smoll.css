@@ -124,18 +124,19 @@ article * td {
 .snow {
   animation: fall ease-in infinite, sway ease-in-out infinite;
   color: skyblue;
+  z-index:-1;
   position: absolute;
 }
 @keyframes fall {
   0% {
     opacity: 0;
   }
-  50% {
+  75% {
     opacity: 1;
   }
   100% {
     top: 100vh;
-    opacity: 1;
+    opacity: 0;
   }
 }
 @keyframes sway {
