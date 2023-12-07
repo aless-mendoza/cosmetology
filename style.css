@@ -59,15 +59,18 @@ nav * table, td {
   border: 10px solid black;
 }
 nav * td, th {
+  z-index:999;
   background-color: #D43195;
 }
 #navTable {
+  z-index:999;
   margin-left: auto;
   margin-right:auto;
   border-collapse: collapse;
   width: 50%;
 }
 nav * td {
+  z-index:999;
   z-index:999;
   text-align: center;
   padding:10px;
