@@ -71,7 +71,6 @@ nav * td, th {
 }
 nav * td {
   z-index:999;
-  z-index:999;
   text-align: center;
   padding:10px;
   border-radius:15%;
@@ -140,6 +139,7 @@ article * td {
   margin: auto;
 }
 #snow-container {  
+  z-index:200;
   height: 100vh;
   overflow: hidden;
   position: absolute;
@@ -148,6 +148,7 @@ article * td {
   width: 100%;
 }
 .snow {
+  z-index:200;
   animation: fall ease-in infinite, sway ease-in-out infinite;
   color: skyblue;
   position: absolute;
@@ -155,6 +156,9 @@ article * td {
 @keyframes fall {
   0% {
     opacity: 0;
+  }
+  45% {
+    opacity: 1;
   }
   75% {
     opacity: 1;
