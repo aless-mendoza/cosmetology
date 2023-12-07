@@ -90,6 +90,16 @@ article * td {
   text-align:center;
   border: 20px transparent;
 }
+#price{
+  position: relative;
+  width: 10%;
+  height:10%;
+}
+#venmo{
+  position: absolute;
+  top: 80px;
+  right: 0;
+}
 #prices{
   margin-left: auto;
   margin-right:auto;
