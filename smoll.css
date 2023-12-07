@@ -123,6 +123,7 @@ article * td {
   background-size: cover;
 }
 #snow-container {  
+  z-index:200;
   height: 100vh;
   overflow: hidden;
   position: absolute;
@@ -131,6 +132,7 @@ article * td {
   width: 100%;
 }
 .snow {
+  z-index:200;
   animation: fall ease-in infinite, sway ease-in-out infinite;
   color: skyblue;
   position: absolute;
@@ -138,6 +140,9 @@ article * td {
 @keyframes fall {
   0% {
     opacity: 0;
+  }
+  45% {
+    opacity: 1;
   }
   75% {
     opacity: 1;
