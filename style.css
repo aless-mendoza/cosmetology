@@ -95,6 +95,8 @@ article * td {
 }
 #venmo{
   position: absolute;
+  width:10%;
+  height:auto;
 }
 #prices{
   margin-left: auto;
