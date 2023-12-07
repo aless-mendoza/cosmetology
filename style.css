@@ -92,13 +92,9 @@ article * td {
 }
 #price{
   position: relative;
-  width: 10%;
-  height:10%;
 }
 #venmo{
   position: absolute;
-  top: 80px;
-  right: 0;
 }
 #prices{
   margin-left: auto;
@@ -137,14 +133,6 @@ article * td {
 .teach{
   margin: auto;
 }
-#venmo{
-  display:inline-block;
-}
-/* 
-.priceContainer{
-  display:inline-block;
-}
-*/
 #snow-container {  
   height: 100vh;
   overflow: hidden;
