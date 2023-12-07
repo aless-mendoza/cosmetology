@@ -95,6 +95,7 @@ article * td {
 }
 #venmo{
   position: absolute;
+  right:10%;
   width:10%;
   height:auto;
 }
