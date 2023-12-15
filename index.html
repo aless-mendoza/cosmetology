@@ -110,15 +110,9 @@
     </div>
 
     <h3> Make an Appointment!</h3>
-    <button onclick="displayForm1()">Make an appointment for Spa Day</button>
-    <div id="form1" style="display: none;">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFph0xiEReFSb-bmuo__ZCzXdpQ2eerUd0j0ZnMxmnoXQH-Q/viewform?embedded=true" width="640" height="1767" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-    </div>
-
-    <button onclick="displayForm2()">Make a general appointment (not for Spa Day)</button>
-    <div id="form2" style="display: none;">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeTt8UligAT3Racm4IjrZT16XG9p_XZ3yV2jtNt86tY8qyxdw/viewform?embedded=true" width="640" height="1783" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-    </div>
+    <button> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFph0xiEReFSb-bmuo__ZCzXdpQ2eerUd0j0ZnMxmnoXQH-Q/viewform?usp=sf_link"> Make an appointment for Spa Day</a></button>
+      <br>
+    <button><a href="https://docs.google.com/forms/d/e/1FAIpQLSeTt8UligAT3Racm4IjrZT16XG9p_XZ3yV2jtNt86tY8qyxdw/viewform?usp=sf_link"> Make a general appointment (not for Spa Day) </a></button>
       
     </article>
     <img src="images/snowman.png" id="snowman" alt="snowman">
@@ -129,26 +123,6 @@
     </footer>
     
   <script>
-    var x=0;
-    var y=0;
-    function displayForm1() {
-      if (x%2==0){
-        document.getElementById("form1").style.display = "block";
-        document.getElementById("form2").style.display = "none";
-      } else {
-        document.getElementById("form1").style.display = "none";
-      }
-      x+=1;
-    }
-    function displayForm2() {
-      if (y%2==0){
-        document.getElementById("form2").style.display = "block";
-        document.getElementById("form1").style.display = "none";
-      } else {
-        document.getElementById("form2").style.display = "none";
-      }
-      y+=1;
-    }
     const snowContainer = document.getElementById("snow-container");
     const snowContent = ['&#10052', '&#10053', '&#10054']
     const random = (num) => {
