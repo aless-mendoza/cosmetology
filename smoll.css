@@ -176,3 +176,12 @@ article * td {
   width:20%;
   height:auto;
 }
+button {
+  border-radius:12px;
+  background-color:transparent;
+  border-color: #ff9cff;
+  color: white;
+  transition-duration: 0.4s;
+  font-size:25px;
+  padding: 14px, 40px;
+}
