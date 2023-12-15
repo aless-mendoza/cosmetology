@@ -129,11 +129,25 @@
     </footer>
     
   <script>
+    var x=0;
+    var y=0;
     function displayForm1() {
-      document.getElementById("form1").style.display = "block";
+      if (x%2==0){
+        document.getElementById("form1").style.display = "block";
+        document.getElementById("form2").style.display = "none";
+      } else {
+        document.getElementById("form1").style.display = "none";
+      }
+      x+=1;
     }
     function displayForm2() {
-      document.getElementById("form2").style.display = "block";
+      if (y%2==0){
+        document.getElementById("form2").style.display = "block";
+        document.getElementById("form1").style.display = "none";
+      } else {
+        document.getElementById("form2").style.display = "none";
+      }
+      y+=1;
     }
     const snowContainer = document.getElementById("snow-container");
     const snowContent = ['&#10052', '&#10053', '&#10054']
